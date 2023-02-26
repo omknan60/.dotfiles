@@ -20,6 +20,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 exec --no-startup-id urxvtd
+exec xrandr --output VGA-1 --mode "1366x768"
 exec feh --bg-scale ~/Pictures/wallpaper.jpg
 
 # Use pactl to adjust volume in PulseAudio.
