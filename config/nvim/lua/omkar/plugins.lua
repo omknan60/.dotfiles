@@ -24,7 +24,6 @@ return require('lazy').setup{
     "rebelot/kanagawa.nvim",
     "rose-pine/neovim",
     "sainnhe/gruvbox-material",
-    "catppuccin/nvim",
     "gruvbox-community/gruvbox",
 
     {
