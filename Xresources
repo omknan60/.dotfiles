@@ -5,6 +5,8 @@ URxvt.intensityStyles: false
 URxvt.font: xft:Hack NFM:size=14
 URxvt.saveLines: 2000
 URxvt.scrollBar: false
+URxvt.iso14755: false
+URxvt.iso14755_52: false
 
 !! Extensions
 URxvt.perl-ext-common: default,matcher,resize-font,url-select,keyboard-select,clipboard
@@ -22,8 +24,6 @@ URxvt.keysym.C-j:   font-size:decrease
 URxvt.url-launcher:	urxvt -e lynx -cfg=~/.lynx.cfg -lss=~/.lynx.lss
 URxvt.matcher.button: 1
 !!clipboard
-URxvt.keysym.M-c: perl:clipboard:copy
-URxvt.keysym.M-v: perl:clipboard:paste
 URxvt*depth: 32
 
 ! ! -----------------------------------------------------------------------------

@@ -203,7 +203,7 @@ bar {
         status_command i3status
         mode hide
         hidden_state hide
-        modifier Mod1
+        #modifier Mod1
 }
 
 #######################################################################
