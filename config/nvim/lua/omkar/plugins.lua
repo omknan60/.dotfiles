@@ -21,10 +21,7 @@ return require('lazy').setup{
     dependencies = { {'nvim-lua/plenary.nvim'} }
     },
 
-    "rebelot/kanagawa.nvim",
     "rose-pine/neovim",
-    "sainnhe/gruvbox-material",
-    "gruvbox-community/gruvbox",
 
     {
         'nvim-treesitter/nvim-treesitter',
