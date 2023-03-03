@@ -19,7 +19,7 @@ vim.opt.undofile = true
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
-vim.opt.termguicolors = true
+vim.opt.termguicolors = false
 
 vim.opt.signcolumn = "yes"
 vim.opt.isfname:append("@-@")
