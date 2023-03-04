@@ -23,6 +23,8 @@ return require('lazy').setup{
 
     "rose-pine/neovim",
     "folke/tokyonight.nvim",
+    "tjdevries/colorbuddy.nvim",
+    "svrana/neosolarized.nvim",
 
     {
         'nvim-treesitter/nvim-treesitter',
