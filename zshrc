@@ -22,7 +22,7 @@ if [ -d "$HOME/.local/bin/squashfs-root/usr/bin" ] ; then
     PATH="$HOME/.local/bin/squashfs-root/usr/bin:$PATH"
 fi
 
-export PATH="$PATH:/usr/local/go/bin"
+export PATH="$PATH:/usr/local/go/bin:/usr/local/zig"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 source ~/powerlevel10k/config/p10k-robbyrussell.zsh
 
