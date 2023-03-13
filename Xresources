@@ -1,9 +1,9 @@
-st.font: Hack NFM:size=14:antialias=true:autohint=true
-st.termname: st-256color
-st.program: /usr/bin/tmux
-st.cursorColor2: #3a3a3a
-st.cols: 120
-st.rows: 40
+*.font: Hack NFM:size=14:antialias=true:autohint=true
+*.termname: st-256color
+*.program: /usr/bin/tmux
+*.cursorColor2: #3a3a3a
+*.cols: 120
+*.rows: 40
 
 ! special
 *.foreground:   #93a1a1
